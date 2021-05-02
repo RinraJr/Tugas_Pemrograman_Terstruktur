@@ -1,4 +1,5 @@
-# Tugas_Pemrograman_Terstruktur
+
+//# Tugas_Pemrograman_Terstruktur
 
 #include <iostream>
 #include <cstring>
@@ -57,3 +58,4 @@ char *reverse(char *a){
 	reverse(s,s+(int) strlen(a));
 	return s;
 }
+
