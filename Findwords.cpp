@@ -17,10 +17,10 @@ using namespace std;
 const int rows = 15, cols = 16;
 
 char words[rows][cols]{
-   						"tgbwwinterwsesn",
-  						"aaunttmmhfoodnb",
-   						"jlwcqldzmpmvdmr",
-   						"asagmquwvvbsohi",
+   					"tgbwwinterwsesn",
+  					"aaunttmmhfoodnb",
+   					"jlwcqldzmpmvdmr",
+   					"asagmquwvvbsohi",
     					"bwplotanadtpgnc",
     					"rewngodjcpnatnk",
     					"eeotwosbqharrsa",
